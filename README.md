@@ -1,4 +1,4 @@
-NET Microservices
+.NET Microservices
 This repository contains the source code for a microservices architecture using .NET. It includes examples of command services, platform services, and Kubernetes deployment scripts.
 
 Projects:
