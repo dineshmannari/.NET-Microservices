@@ -1,0 +1,5 @@
+{
+    "dotnetAcquisitionExtension.enablePreviewFeatures": true,
+    "csharpextensions.useFileScopedNamespace": true,
+    "dotnet.server.useOmnisharp": true
+}
