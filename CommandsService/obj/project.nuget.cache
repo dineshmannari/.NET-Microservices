@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bTZwG5u2rNdWF662ctqP55PW/T3L3Zc0yhmwaRfBlraP4idWvnUUNQbgt6KSEYkMOvFt9Q1ZMT0ZN9G1K8MxIQ==",
+  "dgSpecHash": "h689Pw+dtf1SKdMzWv7Z8zAfw0DaZfRM/kAfveDmONnhdsaPJ6gfsDLCFTMYQ9/ekISeytNEWIYQfAA/xLkzpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\Dot Net core Project\\CommandsService\\CommandsService.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\Dot Net core Project\\.NET Microservices\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
